@@ -1,20 +1,18 @@
 <h1 align="center">👋 Hola, Bienvenido</h1>
 Mi nombre es *Sebastián Zambrana* y estoy estudiando para obtener una licenciatura en Ingeniería de Software y Psicología. Llevo años estudiando e interesándome por la psicología y el desarrollo de soluciones mediante algoritmos. Mi objetivo es encontrar una manera de aprovechar lo mejor de estos dos mundos para mejorar la calidad de vida.
-
-# 💻 MIS PROYECTOS
+<br><br>
+<h1 align="center">💻 Mis Proyectos</h1>
 
 ### **👨🏻‍💻 Proyectos Personales**
-
 **🧠 Sistema de Gestión del Conocimiento**
-
 Este proyecto personal, implementado en la aplicación de código abierto [obsidian.md](http://obsidian.md), integra la metodología Zettelkasten y el sistema P.A.R.A. de Tiago Forte. Constituye una base de datos de notas interrelacionadas que sistematiza la información diaria: material académico, artículos científicos, referencias bibliográficas, gestión de tareas.
-
 - Esta estructurada en formato markdown (.md)
 - Se utilizan plugins como Excalidraw, Templater, Omnisearch, etc.
 - Desarrollo basado íntegramente en software de código abierto y se beneficia de una activa comunidad de desarrolladores.
-
+<br><br>
 Este es el proyecto al que más tiempo he dedicado, debido a su gran potencial y escalabilidad. En 2025, por ejemplo, comencé a implementar inteligencia artificial mediante herramientas como Notion AI y GetRecall para mejorar la eficiencia y capacidad de procesamiento. Al utilizar formato markdown, el proyecto es prácticamente atemporal, lo que permitirá incorporar futuras mejoras conforme surjan nuevas tecnologías.
-
+<br><br>
+<br><br>
 ### 🍺 **La Taberna De JJ**
 
 "La Taberna de JJ" es un proyecto que creé con mis compañeros de carrera para el proyecto final de  Fundamentos de Ingeniería de Software. Es una página web que ayuda a las personas a encontrar bebidas y tiendas de licores. Nos inspiramos en el estilo ruso para el diseño, usando tres colores principales: azul oscuro (`#003399`), azul claro (`#ADD8E6`) y dorado (`#FFD700`).
@@ -38,6 +36,8 @@ Usamos tecnologías modernas para crear la aplicación:
 - Mapas interactivos para mostrar las ubicaciones. usamos Leaflet junto con React-Leaflet
 - Firebase para manejar usuarios y guardar datos
 
+<br><br>
+<br><br>
 # 🧑🏻‍⚕️ Area Psicologia
 
 ## 🎓 Aplicacion PsicoFisiologia
