@@ -1,21 +1,25 @@
 <h1 align="center">👋 Hola, Bienvenido</h1>
 Mi nombre es *Sebastián Zambrana* y estoy estudiando para obtener una licenciatura en Ingeniería de Software y Psicología. Llevo años estudiando e interesándome por la psicología y el desarrollo de soluciones mediante algoritmos. Mi objetivo es encontrar una manera de aprovechar lo mejor de estos dos mundos para mejorar la calidad de vida.
 <br><br>
+
 <h1 align="center">💻 Mis Proyectos</h1>
 
-### **👨🏻‍💻 Proyectos Personales**
-**🧠 Sistema de Gestión del Conocimiento**
+### **🧠 Sistema de Gestión del Conocimiento**
 Este proyecto personal, implementado en la aplicación de código abierto [obsidian.md](http://obsidian.md), integra la metodología Zettelkasten y el sistema P.A.R.A. de Tiago Forte. Constituye una base de datos de notas interrelacionadas que sistematiza la información diaria: material académico, artículos científicos, referencias bibliográficas, gestión de tareas.
 - Esta estructurada en formato markdown (.md)
 - Se utilizan plugins como Excalidraw, Templater, Omnisearch, etc.
 - Desarrollo basado íntegramente en software de código abierto y se beneficia de una activa comunidad de desarrolladores.
 <br><br>
-Este es el proyecto al que más tiempo he dedicado, debido a su gran potencial y escalabilidad. En 2025, por ejemplo, comencé a implementar inteligencia artificial mediante herramientas como Notion AI y GetRecall para mejorar la eficiencia y capacidad de procesamiento. Al utilizar formato markdown, el proyecto es prácticamente atemporal, lo que permitirá incorporar futuras mejoras conforme surjan nuevas tecnologías.
-<br><br>
-<br><br>
-### 🍺 **La Taberna De JJ**
 
-"La Taberna de JJ" es un proyecto que creé con mis compañeros de carrera para el proyecto final de  Fundamentos de Ingeniería de Software. Es una página web que ayuda a las personas a encontrar bebidas y tiendas de licores. Nos inspiramos en el estilo ruso para el diseño, usando tres colores principales: azul oscuro (`#003399`), azul claro (`#ADD8E6`) y dorado (`#FFD700`).
+Este es el proyecto al que más tiempo he dedicado, debido a su gran potencial y escalabilidad. En 2025, por ejemplo, comencé a implementar inteligencia artificial mediante herramientas como Notion AI y GetRecall para mejorar la eficiencia y capacidad de procesamiento. Al utilizar formato markdown, el proyecto es prácticamente atemporal, lo que permitirá incorporar futuras mejoras conforme surjan nuevas tecnologías.
+
+![image](https://github.com/user-attachments/assets/1e852753-70f4-47ca-aa75-3b770c3b9100)
+<br><br>
+
+---
+### 🍺 **La Taberna De JJ**
+Este es un proyecto que creé con mis compañeros de carrera para el proyecto final de  Fundamentos de Ingeniería de Software. Es una página web que ayuda a las personas a encontrar bebidas y tiendas de licores. Nos inspiramos en el estilo ruso para el diseño, usando tres colores principales: azul oscuro (`#003399`), azul claro (`#ADD8E6`) y dorado (`#FFD700`).
+<br><br>
 
 **👨🏻‍🏫 Características Principales:**
 
@@ -24,9 +28,9 @@ Este es el proyecto al que más tiempo he dedicado, debido a su gran potencial y
 - **Buscador de Bebidas:** Puedes buscar bebidas por nombre o marca. También puedes filtrar por tipo (Vodka, Cerveza, Vino, Whisky y otros) y ordenar por nombre o precio. Cada bebida muestra su información en una tarjeta.
 - **Información de Tiendas:** Muestra una lista de tiendas con todos sus datos: nombre, dirección, horarios, fotos y opiniones. Cada tienda tiene su propia página donde puedes ver qué productos tiene y sus precios.
 - **Diseño Moderno:** La aplicación funciona bien en celulares y computadoras, con un diseño atractivo y fácil de usar.
+<br><br>
 
 **👨🏻‍🔧 ¿Cómo está hecha la aplicación?**
-
 Usamos tecnologías modernas para crear la aplicación:
 
 - Next.js como base principal (versión 15.2.3, utilizando Turbopack para optimizar el entorno de desarrollo).
@@ -35,17 +39,22 @@ Usamos tecnologías modernas para crear la aplicación:
 - Sistema para guardar y manejar información de forma eficiente, Se emplea React Query (`@tanstack/react-query`)
 - Mapas interactivos para mostrar las ubicaciones. usamos Leaflet junto con React-Leaflet
 - Firebase para manejar usuarios y guardar datos
+  
+![image](https://github.com/user-attachments/assets/6a710274-2734-4f31-ab43-d9246ea196ec)
 
-<br><br>
 <br><br>
 # 🧑🏻‍⚕️ Area Psicologia
 
 ## 🎓 Aplicacion PsicoFisiologia
 
+
 Desarrollé una aplicación simple para explicar temas de psicofisiología. Es una herramienta educativa que usa inteligencia artificial, llamada "Phineas Gage", diseñada con una pantalla simple y fácil de usar. Solo tienes que escribir una pregunta, y la aplicación te dará respuestas claras sobre psicofisiología que cualquiera puede entender, sin necesidad de ser experto en el tema. 
+![image](https://github.com/user-attachments/assets/2460d06e-adc6-4fd6-b703-3df6a93c7428)
+
+![Animation](https://github.com/user-attachments/assets/b9c18414-f489-4f11-903f-d5ca86a1776f)
+<br><br>
 
 ## 🗺️ Mi Ruta en esta area
-
 Si bien no planeo ejercer en el área clínica, mi objetivo es desarrollar herramientas para potenciar y mejorar el proceso de apoyo al bienestar mental, beneficiando tanto a psicólogos como pacientes. Mi enfoque será desarrollar soluciones potentes pero intuitivas, que optimicen y hagan más eficiente el trabajo del psicólogo.
 
 **🔎A partir de investigaciones exhaustivas, he identificado varias áreas de oportunidad prometedoras en el campo de la salud mental:**
@@ -97,8 +106,7 @@ He identificado **tres** áreas importantes para mejorar estas herramientas:
 - Seria beneficioso usar la **inteligencia artificial** para desarrollar sistemas que comprendan y asistan a las personas de manera más efectiva.
 - Es importante crear estas herramientas de forma ética y bien diseñada, para que sean útiles y seguras para todos.
   
-
-
+<br><br>
 # 👨🏻‍💻 Area Programacion
 <h3 align="left">Lenguajes y Herramientas que estoy usando/aprendiendo:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
