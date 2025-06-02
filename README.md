@@ -5,7 +5,7 @@ Mi nombre es *Sebastián Zambrana* y estoy estudiando para obtener una licenciat
 <h1 align="center">💻 Mis Proyectos</h1>
 
 ### **🧠 Sistema de Gestión del Conocimiento**
-Este proyecto personal, implementado en la aplicación de código abierto [obsidian.md](http://obsidian.md), integra la metodología Zettelkasten y el sistema P.A.R.A. de Tiago Forte. Constituye una base de datos de notas interrelacionadas que sistematiza la información diaria: material académico, artículos científicos, referencias bibliográficas, gestión de tareas.
+Este proyecto personal, implementado en la aplicación de código abierto [obsidian.md](http://obsidian.md), integra la metodología Zettelkasten y el sistema P.A.R.A. de Tiago Forte. Constituye una base de datos de notas interrelacionadas que sistematiza la información diaria: material académico, artículos científicos, referencias bibliográficas, gestión de tareas, etc.
 - Esta estructurada en formato markdown (.md)
 - Se utilizan plugins como Excalidraw, Templater, Omnisearch, etc.
 - Desarrollo basado íntegramente en software de código abierto y se beneficia de una activa comunidad de desarrolladores.
