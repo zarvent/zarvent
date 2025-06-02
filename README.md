@@ -54,8 +54,8 @@ Desarrollé una aplicación simple para explicar temas de psicofisiología. Es u
 ![Animation](https://github.com/user-attachments/assets/b9c18414-f489-4f11-903f-d5ca86a1776f)
 <br><br>
 
-## 🗺️ Mi Ruta en esta area
-Si bien no planeo ejercer en el área clínica, mi objetivo es desarrollar herramientas para potenciar y mejorar el proceso de apoyo al bienestar mental, beneficiando tanto a psicólogos como pacientes. Mi enfoque será desarrollar soluciones potentes pero intuitivas, que optimicen y hagan más eficiente el trabajo del psicólogo.
+## 🗺️ Mi posible proximo proyecto en esta area:
+hay una oportunidad desarrollar herramientas para potenciar y mejorar el proceso de apoyo al bienestar mental, beneficiando tanto a psicólogos como pacientes. Mi enfoque será desarrollar soluciones potentes pero intuitivas, que optimicen y hagan más eficiente el trabajo del psicólogo.
 
 **🔎A partir de investigaciones exhaustivas, he identificado varias áreas de oportunidad prometedoras en el campo de la salud mental:**
 
