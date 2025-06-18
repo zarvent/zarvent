@@ -1,7 +1,5 @@
-<h1 align="center">👋 Hola, Bienvenido</h1>
-Mi nombre es *Sebastián Zambrana* y estoy estudiando para obtener una licenciatura en Ingeniería de Software y Psicología. Llevo años estudiando e interesándome por la psicología y el desarrollo de soluciones mediante algoritmos. 
-<br><br>
-
+<h1 align="center">👋 Hi, I'm Sebastián</h1>
+I am studying to obtain a degree in Software Engineering and Psychology. For years I have been interested in psychology and developing solutions through algorithms.<br><br>
 <h1 align="center">💻 Main Project </h1>
 
 ### **🧠 Knowledge Management System**
